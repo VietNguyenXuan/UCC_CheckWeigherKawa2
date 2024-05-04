@@ -1,0 +1,71 @@
+2024/01/07 06:12:05: Content: Open App 
+2024/01/07 06:12:39: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/01/07 06:13:00: Content: Thay đổi tên QC:Nguyen Thi Ngan Ha 
+2024/01/07 06:13:02: Content: Thay đổi tên TC:NGUYEN TAN THANH 
+2024/01/07 06:13:15: Content: Thay đổi sản phẩm 
+2024/01/07 06:13:27: Content: Open App 
+2024/01/07 06:14:05: Content: Thay đổi sản phẩm:69647679 
+2024/01/07 06:14:18: Content: Thay đổi lô BB: Haha 
+2024/01/07 06:14:24: Content: Open App 
+2024/01/07 06:22:44: Content: Open App 
+2024/01/07 06:29:51: Content: Open App 
+2024/01/07 06:31:12: Content: Open App 
+2024/01/07 06:33:11: Content: Open App 
+2024/01/07 06:34:15: Content: Open App 
+2024/01/07 06:34:50: Content: Open App 
+2024/01/07 06:37:36: Content: Open App 
+2024/03/14 15:09:15: Content: Open App 
+2024/03/14 15:09:27: Content: Open App 
+2024/03/14 15:09:45: Content: Open App 
+2024/03/14 15:11:03: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:03: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:03: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:12: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:12: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:12: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:18: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:18: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:19: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:25: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:25: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:25: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:31: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:31: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:31: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:37: Content: Thay đổi tên OP:Pham Hoang Long 
+2024/03/14 15:11:37: Content: Thay đổi tên QC:VU THI THUY 
+2024/03/14 15:11:37: Content: Thay đổi tên TC:NG VAN HAI DUONG 
+2024/03/14 15:11:44: Content: Thay đổi tên OP:Nguyen Van A 
+2024/03/14 15:11:45: Content: Thay đổi tên QC:Nguyen Thi Ngan Ha 
+2024/03/14 15:11:46: Content: Thay đổi tên TC:NGUYEN TAN THANH 
+2024/03/14 15:12:00: Content: Thay đổi tên TC:Le Van An 
+2024/03/14 15:12:02: Content: Thay đổi tên QC:Tran Van B 
+2024/03/14 15:12:05: Content: Thay đổi tên OP:Le Huy 
+2024/03/14 15:31:10: Content: Thay đổi sản phẩm:69647679 
+2024/03/14 15:31:16: Content: Thay đổi lô BB: 123456789 
+2024/03/14 18:51:58: Content: Open App 
+2024/03/14 18:52:41: Content: Open App 
+2024/03/14 18:53:42: Content: Open App 
+2024/03/22 13:27:47: Content: Open App 
+2024/03/22 13:28:30: Content: Open App 
+2024/03/22 13:29:59: Content: Open App 
+2024/03/22 14:33:57: Content: Open App 
+2024/03/22 14:37:58: Content: Open App 
+2024/03/22 15:21:00: Content: Open App 
+2024/03/22 15:21:18: Content: Open App 
+2024/03/22 15:22:03: Content: Open App 
+2024/03/22 15:23:35: Content: Open App 
+2024/03/22 15:23:57: Content: Open App 
+2024/03/22 15:26:12: Content: Open App 
+2024/03/22 15:28:25: Content: Open App 
+2024/03/22 15:29:15: Content: Open App 
+2024/03/22 15:40:08: Content: Open App 
+2024/03/22 15:48:49: Content: Open App 
+2024/03/22 16:25:09: Content: Open App 
+2024/03/22 16:25:52: Content: Open App 
+2024/03/22 16:29:32: Content: Open App 
+2024/03/22 17:03:09: Content: Open App 
+2024/03/22 17:05:33: Content: Open App 
+2024/04/08 22:17:57: Content: Open App 
+2024/04/16 23:06:35: Content: Open App 
+2024/04/16 23:34:10: Content: Open App 
